@@ -6,7 +6,7 @@
 
 ## Setup
 
-1. Open `sketch_promicro.ino` in Arduino IDE
+1. Open [sketch_promicro.ino](https://github.com/multifex/prototypes/blob/main/jasp-keyboard-joystick/firmware/sketch_promicro.ino) in Arduino IDE
 2. Plug your Pro Micro into your PC
 3. In the Arduino IDE board dropdown, select **Arduino Leonardo**
 
